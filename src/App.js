@@ -76,7 +76,7 @@ function App() {
       </div>
 
       {/* Service */}
-      <div className="service mt-10 lg:mt-[80px] text-center">
+      <div className="service mt-10 md:mt-[80px] lg:mt-[140px] text-center">
         <h4 className="text-[#EB3656] text-md font-medium mb-2">OUR SERVICES</h4>
         <h1 className="text-2xl font-semibold mb-14">WHAT WE DO?</h1>
 
