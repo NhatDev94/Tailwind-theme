@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Tailwind-theme/static/css/main.2ac51059.css",
-    "main.js": "/Tailwind-theme/static/js/main.271953de.js",
+    "main.css": "/Tailwind-theme/static/css/main.791ac968.css",
+    "main.js": "/Tailwind-theme/static/js/main.2ad1a602.js",
     "static/js/787.522ef74d.chunk.js": "/Tailwind-theme/static/js/787.522ef74d.chunk.js",
     "static/media/banner-image.png": "/Tailwind-theme/static/media/banner-image.77b545fbaab6db80ec47.png",
     "static/media/about-1.png": "/Tailwind-theme/static/media/about-1.856ed52945b3d4443c70.png",
     "static/media/team-1.jpg": "/Tailwind-theme/static/media/team-1.5abc194ebc10ba64e882.jpg",
     "static/media/about-2.png": "/Tailwind-theme/static/media/about-2.ff8113c9a13917abbb99.png",
     "index.html": "/Tailwind-theme/index.html",
-    "main.2ac51059.css.map": "/Tailwind-theme/static/css/main.2ac51059.css.map",
-    "main.271953de.js.map": "/Tailwind-theme/static/js/main.271953de.js.map",
+    "main.791ac968.css.map": "/Tailwind-theme/static/css/main.791ac968.css.map",
+    "main.2ad1a602.js.map": "/Tailwind-theme/static/js/main.2ad1a602.js.map",
     "787.522ef74d.chunk.js.map": "/Tailwind-theme/static/js/787.522ef74d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ac51059.css",
-    "static/js/main.271953de.js"
+    "static/css/main.791ac968.css",
+    "static/js/main.2ad1a602.js"
   ]
 }
