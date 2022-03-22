@@ -216,9 +216,9 @@ function App() {
                 <div className="social h-0 opacity-0 transition-all duration-500
                                 group-hover:flex justify-center group-hover:pt-8 group-hover:h-20 
                                 group-hover:opacity-100">
-                  <i className="fa-brands fa-facebook-f mx-2 w-[30px] h-[30px] text-center leading-[30px] rounded-full bg-slate-300 hover:bg-[#EB3656] hover:text-white"></i>
-                  <i className="fa-brands fa-twitter mx-2 w-[30px] h-[30px] text-center leading-[30px] rounded-full bg-slate-300 hover:bg-[#EB3656] hover:text-white"></i>
-                  <i className="fa-brands fa-linkedin mx-2 w-[30px] h-[30px] text-center leading-[30px] rounded-full bg-slate-300 hover:bg-[#EB3656] hover:text-white"></i>
+                  <i className="fa-brands fa-facebook-f mx-2 w-[30px] h-[30px] text-center cursor-pointer leading-[30px] rounded-full bg-slate-300 hover:bg-[#EB3656] hover:text-white"></i>
+                  <i className="fa-brands fa-twitter mx-2 w-[30px] h-[30px] text-center cursor-pointer leading-[30px] rounded-full bg-slate-300 hover:bg-[#EB3656] hover:text-white"></i>
+                  <i className="fa-brands fa-linkedin mx-2 w-[30px] h-[30px] text-center cursor-pointer leading-[30px] rounded-full bg-slate-300 hover:bg-[#EB3656] hover:text-white"></i>
                 </div>
               </div>
             </div>
